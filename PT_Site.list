@@ -78,12 +78,14 @@ DOMAIN-SUFFIX,hddolby.com
 
 # 麒麟
 DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,hdkylin.com
 DOMAIN-SUFFIX,hdkylin.work
 DOMAIN-SUFFIX,hdkylin.top
 DOMAIN,tracker.hdkyl.in
 DOMAIN,t.hdkylin.work
 DOMAIN,www.hdkylin.top
 DOMAIN,www.hdkyl.in
+DOMAIN,hdkylin.com
 
 # 末日
 DOMAIN,bbs.agsvpt.cn
