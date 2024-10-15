@@ -1,5 +1,9 @@
 #PT直连规则
 
+#野马
+DOMAIN,www.yemapt.org
+DOMAIN-SUFFIX,yemapt.org
+
 #柠檬
 DOMAIN,lemonhd.club
 DOMAIN,lemonhd.top
