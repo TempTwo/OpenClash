@@ -1,5 +1,9 @@
 #PT直连规则
 
+#OurBits
+DOMAIN,ourbits.club
+DOMAIN-SUFFIX,ourbits.club
+
 #野马
 DOMAIN,www.yemapt.org
 DOMAIN-SUFFIX,yemapt.org
