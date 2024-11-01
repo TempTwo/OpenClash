@@ -1,5 +1,9 @@
 #PT直连规则
 
+#SSD
+DOMAIN,springsunday.net
+DOMAIN-SUFFIX,springsunday.net
+
 #OurBits
 DOMAIN,ourbits.club
 DOMAIN-SUFFIX,ourbits.club
