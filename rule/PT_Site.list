@@ -1,5 +1,9 @@
 #PT直连规则
 
+#Sunny
+DOMAIN,sunnypt.top
+DOMAIN-SUFFIX,sunnypt.top
+
 #1PTBA
 DOMAIN,1ptba.com
 DOMAIN-SUFFIX,1ptba.com
