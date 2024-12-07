@@ -1,5 +1,9 @@
 #PT直连规则
 
+#invites
+DOMAIN,invites.fun
+DOMAIN-SUFFIX,invites.fun
+
 #Sunny
 DOMAIN,sunnypt.top
 DOMAIN-SUFFIX,sunnypt.top
