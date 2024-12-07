@@ -1,1 +1,5 @@
+#PT直连规则
 
+#torrentleech
+DOMAIN,torrentleech.org
+DOMAIN-SUFFIX,torrentleech.org
