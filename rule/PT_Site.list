@@ -1,5 +1,9 @@
 #PT直连规则
 
+#Pter
+DOMAIN,pterclub.com
+DOMAIN-SUFFIX,pterclub.com
+
 #invites
 DOMAIN,invites.fun
 DOMAIN-SUFFIX,invites.fun
