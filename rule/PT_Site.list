@@ -73,11 +73,12 @@ DOMAIN-SUFFIX,yemapt.org
 DOMAIN,lemonhd.club
 DOMAIN,lemonhd.top
 DOMAIN,lemonhd.org
-DOMAIN,tracker01.ilovelemonhd.me
+#DOMAIN,tracker01.ilovelemonhd.me
+#DOMAIN,ipv6-tracker01.ilovelemonhd.me
 DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-SUFFIX,lemonhd.top
 DOMAIN-SUFFIX,lemonhd.org
-DOMAIN-SUFFIX,ilovelemonhd.me
+#DOMAIN-SUFFIX,ilovelemonhd.me
 
 # 憨憨
 DOMAIN,hhanclub.top
