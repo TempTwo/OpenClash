@@ -1,5 +1,14 @@
 #PT直连规则
 
+#CHD
+DOMAIN,ptchdbits.co
+DOMAIN,tracker.ptchdbits.co
+DOMAIN,tracker.rainbowisland.co
+DOMAIN,chdbits.xyz
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,rainbowisland.co
+DOMAIN-SUFFIX,chdbits.xyz
+
 #Pter
 DOMAIN,pterclub.com
 DOMAIN-SUFFIX,pterclub.com
