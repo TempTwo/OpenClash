@@ -1,5 +1,9 @@
 #PT直连规则
 
+#ttg
+DOMAIN,totheglory.im
+DOMAIN-SUFFIX,totheglory.im
+
 #CHD
 DOMAIN,ptchdbits.co
 DOMAIN,tracker.ptchdbits.co
