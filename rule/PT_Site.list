@@ -1,11 +1,5 @@
 #PT直连规则
 
-#ying
-DOMAIN,star-space.net
-DOMAIN,star-space.top
-DOMAIN-SUFFIX,star-space.net
-DOMAIN-SUFFIX,star-space.top
-
 #ttg
 DOMAIN,totheglory.im
 DOMAIN-SUFFIX,totheglory.im
