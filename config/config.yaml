@@ -143,10 +143,9 @@ proxy-groups:
 # 规则匹配
 # 此规则部分没有做防泄露处理，因为弊严重大于利！
 rules:
-  - DOMAIN-SUFFIX,qichiyu.com,🚀 默认代理
   - RULE-SET,private_domain,直连
   - RULE-SET,apple_domain,🍎 Apple
-  - RULE-SET,pt_domain,🍎 PT
+  - RULE-SET,pt_domain,🍎 PT,直连
   - RULE-SET,proxylite,🚀 默认代理
   - RULE-SET,ai,🤖 ChatGPT
   - RULE-SET,github_domain,👨🏿‍💻 GitHub
