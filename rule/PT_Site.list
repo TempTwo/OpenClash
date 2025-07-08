@@ -1,5 +1,9 @@
 #PT直连规则
 
+#TLF
+DOMAIN,pt.eastgame.org
+DOMAIN-SUFFIX,eastgame.org
+
 #ttg
 DOMAIN,totheglory.im
 DOMAIN-SUFFIX,totheglory.im
