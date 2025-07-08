@@ -18,8 +18,8 @@ DOMAIN-SUFFIX,rainbowisland.co
 DOMAIN-SUFFIX,chdbits.xyz
 
 #Pter
-DOMAIN,pterclub.com
-DOMAIN-SUFFIX,pterclub.com
+#DOMAIN,pterclub.com
+#DOMAIN-SUFFIX,pterclub.com
 
 #invites
 DOMAIN,invites.fun
