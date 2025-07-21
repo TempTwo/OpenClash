@@ -22,8 +22,8 @@ DOMAIN,pterclub.com
 DOMAIN-SUFFIX,pterclub.com
 
 #invites
-DOMAIN,invites.fun
-DOMAIN-SUFFIX,invites.fun
+#DOMAIN,invites.fun
+#DOMAIN-SUFFIX,invites.fun
 
 #Sunny
 DOMAIN,sunnypt.top
