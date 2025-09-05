@@ -1,5 +1,10 @@
 #PT直连规则
 
+#Nova
+DOMAIN,tracker.novahd.top
+DOMAIN,pt.novahd.top
+DOMAIN-SUFFIX,novahd.top
+
 #TLF
 DOMAIN,pt.eastgame.org
 DOMAIN-SUFFIX,eastgame.org
