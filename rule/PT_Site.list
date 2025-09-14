@@ -24,7 +24,10 @@ DOMAIN-SUFFIX,chdbits.xyz
 
 #Pter
 DOMAIN,pterclub.com
+DOMAIN,tracker.pterclub.com
+DOMAIN,tracker.pterclub.net
 DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pterclub.net
 
 #invites
 #DOMAIN,invites.fun
