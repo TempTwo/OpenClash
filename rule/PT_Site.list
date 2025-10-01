@@ -1,5 +1,10 @@
 #PT直连规则
 
+# HDS
+DOMAIN,hdsky.me
+DOMAIN,tracker.hdsky.me
+DOMAIN-SUFFIX,hdsky.me
+
 #Nova
 DOMAIN,tracker.novahd.top
 DOMAIN,pt.novahd.top
