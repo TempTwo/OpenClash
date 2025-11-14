@@ -1,5 +1,9 @@
 #PT直连规则
 
+#思齐
+DOMAIN,si-qi.xyz
+DOMAIN-SUFFIX,si-qi.xyz
+
 #星空(影)
 DOMAIN,star-space.net
 DOMAIN-SUFFIX,star-space.net
