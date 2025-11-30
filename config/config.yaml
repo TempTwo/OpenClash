@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   XSUS:
-    url: "http://23.145.248.164:3389/api/v1/client/subscribe?token=92c53caa74378fa9066a84c5a15c17ba"
+    url: "xxx"
     type: http
     interval: 86400
     health-check:
@@ -13,7 +13,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   KuaiMao:
-    url: "https://abc.xhonor.top:9066/v2b/km/api/v1/client/subscribe?token=0158558968e677bbf3d8df2f4fef3f77"
+    url: "xxxx"
     type: http
     interval: 86400
     health-check:
