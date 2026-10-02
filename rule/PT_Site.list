@@ -120,9 +120,13 @@ DOMAIN-SUFFIX,ilovelemonhd.me
 
 # 憨憨
 DOMAIN,hhanclub.top
+DOMAIN,hhanclub.net
 DOMAIN,tracker.hhan.club
+DOMAIN,tracker.hhanclub.net
+DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hhan.club
+
 
 # 月月
 DOMAIN,pt.keepfrds.com
