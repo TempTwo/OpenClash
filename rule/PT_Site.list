@@ -1,3 +1,7 @@
+#AV直连规则
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,javranking.cc
+
 #PT直连规则
 
 #思齐
