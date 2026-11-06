@@ -1,5 +1,9 @@
 #PT直连规则
 
+#HDC
+DOMAIN,hdwing.org
+DOMAIN-SUFFIX,hdwing.org
+
 #思齐
 DOMAIN,si-qi.xyz
 DOMAIN-SUFFIX,si-qi.xyz
